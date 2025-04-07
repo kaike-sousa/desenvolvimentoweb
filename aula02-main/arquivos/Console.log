@@ -1,0 +1,9 @@
+console.table(["Ana", "Bia", "Carlos])
+
+console.table({nome: 'Caneta Azul', preco: 7.50, desconto: 0.15})
+
+console.log('Nível 1')
+console.group('Nível 2')
+console.log('Detalhe do nível 2')
+console.group('Nível 3')
+console.log('Detalhe do nível 3')
