@@ -18,11 +18,11 @@ console.log(`A variável ${funcao} tem o tipo ${typeof (funcao)}`);
 
 // como declarar
 
-var ; // variável global ou local - valor inicial nulo
+//var ; // variável global ou local - valor inicial nulo
 
 let; // variavel local de bloco - valor inicial nulo
 
-const ; // variável local de bloco - valor inicial obrigatório */
+//const ; // variável local de bloco - valor inicial obrigatório */
 
 
 // usando var global
